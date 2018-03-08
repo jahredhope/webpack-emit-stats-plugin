@@ -1,0 +1,24 @@
+{
+  "name": "webpack-emit-stats-plugin",
+  "version": "0.0.1",
+  "description": "Webpack emit stats plugin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jahredhope/webpack-emit-stats-plugin"
+  },
+  "keywords": ["webpack"],
+  "author": "Jahred Hope <jahredhope@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jahredhope/webpack-emit-stats-plugin/issues"
+  },
+  "files": ["lib", "index.js"],
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "eslint": "^4.18.1",
+    "eslint-config-seek": "^3.1.0"
+  }
+}

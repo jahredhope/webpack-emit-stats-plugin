@@ -1,0 +1,8 @@
+---
+extends:
+  - eslint-config-seek
+
+rules:
+  no-param-reassign: off
+  no-void: off
+  strict: off
